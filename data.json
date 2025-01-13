@@ -1,0 +1,66 @@
+{
+  "The Batman": {
+    "year": 2022,
+    "rating": 8.0
+  },
+  "Pulp Fiction": {
+    "year": 1994,
+    "rating": 9.0
+  },
+  "The Godfather": {
+    "year": 1972,
+    "rating": 9.0
+  },
+  "The Dark Knight": {
+    "year": 2008,
+    "rating": 9.0
+  },
+  "Forrest Gump": {
+    "year": 1994,
+    "rating": 9.0
+  },
+  "Star Wars: Episode V": {
+    "year": 2015,
+    "rating": 8.0
+  },
+  "Fight Club": {
+    "year": 1999,
+    "rating": 9.0
+  },
+  "The Crow": {
+    "year": 1994,
+    "rating": 8.0
+  },
+  "The Da Vinci Code": {
+    "year": 2008,
+    "rating": 6.0
+  },
+  "Kill Bill: Volume 1": {
+    "year": 2003,
+    "rating": 9.0
+  },
+  "Kill Bill: Volume 2": {
+    "year": 2004,
+    "rating": 8.0
+  },
+  "Jackie Brown": {
+    "year": 1997,
+    "rating": 7.0
+  },
+  "The Last Unicorn": {
+    "year": 1982,
+    "rating": 7.0
+  },
+  "The Addams Family": {
+    "year": 1991,
+    "rating": 7.0
+  },
+  "300": {
+    "year": 2006,
+    "rating": 8.0
+  },
+  "Sin City": {
+    "year": 2005,
+    "rating": 8.0
+  }
+}
